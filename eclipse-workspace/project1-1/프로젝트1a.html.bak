@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>HProject1</title>
+</head>
+<body style="background: rgb(186, 207, 209);">
+<center>
+<header>
+	<div>
+		<table style="width:800px; height:80px; background: rgb(255, 255, 255);">
+			<tbody>
+				<td style="width:300px;"></td>
+				<td style="width:500px; text-align:right; padding-right:10px;">
+					<button style="width:110px; height:40px; background: rgb(186, 207, 209); box-shadow: 1px 1px gray; color: blue; margin-right:5px;">
+					홈</button>
+					<button style="width:110px; height:40px; background: rgb(186, 207, 209); box-shadow: 1px 1px gray; color: blue; margin-right:5px;">
+					자기소개</button>
+					<button style="width:110px; height:40px; background: rgb(186, 207, 209); box-shadow: 1px 1px gray; color: blue; margin-right:5px;">
+					내사진</button>
+					<button style="width:110px; height:40px; background: rgb(186, 207, 209); box-shadow: 1px 1px gray; color: blue;">
+					몇시에요</button>
+				</td>
+			</tbody>
+		</table>
+	</div>
+</header>
+
+	<div style="padding-top:5px;">
+		<table style="width:800px; height:700px; background: rgb(255, 255, 255);">
+			<tbody>
+				<tr height="130">
+					<td style="text-align:center;">
+						<h1>웹프론트엔드 개발자!! Heo~</h1>
+						함께 개발하고 같이 성장하고 싶어요<br>
+						제주특별자치도 제주시 화삼로 어딘가 살고 있어요!
+					</td>
+				</tr>
+				<tr height="100">
+					<td style="text-align:center; font-family:나눔고딕;">
+						<button style="width:110px; height:100px; background: rgb(186, 207, 209); box-shadow: 2px 2px; font-size:13pt; color:white;">
+						<b>자기소개</b></button>
+						<button style="width:110px; height:100px; background: rgb(186, 207, 209); box-shadow: 2px 2px; font-size:13pt; color:white;">
+						<b>내사진</b></button>
+					</td>
+				</tr>
+
+				<tr height="570">
+					<td style="text-align:center;">
+						<img src="image1.jpg" alt="My Image" width="700px" height="500px">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+<div style="padding-top:5px;">
+	<table style="width:800px; height:80px; background: rgb(255, 255, 255);">
+		<tbody>
+			<tr>
+				<td style="text-align:center;">
+				mia2628@naver.com<br>
+				http://github.mia2628/HeoYunSeong
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+</body>
+</html>
